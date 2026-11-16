@@ -1,0 +1,18 @@
+Excel Functions and Features
+Throughout the week, I strengthened my Excel skills by learning how to use a wide range of functions and tools for data preparation and analysis. These included relative and absolute references, UNIQUE, SUM, SUMIF, SUMIFS, AVERAGE, AVERAGEIF, AVERAGEIFS, COUNT, COUNTIF, COUNTIFS, COUNTA, IF, IFS, VLOOKUP, XLOOKUP, SWITCH, CONCATENATE, Text to Columns, TRANSPOSE, AutoFill, and Flash Fill I learned when to use each function and how they can improve data quality, automate calculations, clean data, and support more accurate analysis.
+I also learned how to import, combine, and prepare data using tools such as Power Query and gained an appreciation of the challenges involved in working with data from different sources, including missing values, formatting issues, duplicates, and data quality concerns.
+Hyperlinks
+I learned how to use hyperlinks in Excel to create clickable links to websites, worksheets, files, and email addresses. Hyperlinks improve navigation, make dashboards more interactive, and help users access related information quickly. They are particularly useful in reports and dashboards where users need to move between different sections or access supporting documents efficiently.
+Visualisations
+As my knowledge progressed, I learned how to analyse and present data using Pivot Tables, Pivot Charts, Slicers, dashboards, various charts (see table below). I gained an understanding of the role of data visualisation in the data analysis life cycle and how effective visualisations help identify trends, patterns, relationships, and outliers. I also learned the importance of selecting appropriate chart types, keeping visualisations simple, and presenting information clearly.
+Chart Type	Purpose	Example Use
+Column Chart	Compare values across categories	Compare sales by product
+Bar Chart	Compare categories horizontally	Compare sales by region
+Line Chart	Show trends over time	Monthly sales trends
+Pie Chart	Show parts of a whole	Market share percentages
+Scatter Plot 
+(XY Chart)	Show relationships between two variables	Advertising spend vs sales
+Histogram	Show frequency distribution	Customer age distribution
+Map Chart	Display geographical data	Sales by country or region
+In addition, I learned how interactive reports and dashboards can be built using slicers, hyperlinks, visualisations, and automated actions.
+ 
